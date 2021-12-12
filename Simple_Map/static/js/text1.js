@@ -203,7 +203,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
       return div;
     };
 
-    // Finally, we add our legend to the map.
+// Finally, we add our legend to the map.
     legend.addTo(map);
 
     let myStyle = {
